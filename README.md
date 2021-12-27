@@ -1,2 +1,2 @@
-# some-galery
-# some-galery
+# some-gallery
+# some-gallery
